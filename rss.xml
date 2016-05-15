@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[KF7JOZ]]></title>
+        <description><![CDATA[KF7JOZ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 May 2016 03:29:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World!]]></title>
+            <description><![CDATA[<p>My name is Andrew and my amature callsign is KF7JOZ. Currently, I hold a General class license and one day, when I have more free time, will study and receive a Extra class license. I currently own 3 stations, two handheld VHF/UHF and one mobile VHF/UHF. </p>]]></description>
+            <link>undefinedhello-world/index.html</link>
+            <guid isPermaLink="false">bdb970f5-4f80-4a4e-ab00-e749bed00202</guid>
+            <pubDate>Sun, 15 May 2016 03:29:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
